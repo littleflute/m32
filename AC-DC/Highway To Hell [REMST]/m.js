@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Highway To Hell.mp3";		
+f[2]	= "02 Girls Got Rhythm.mp3";		
+f[3]	= "03 Walk All Over You.mp3";		
+f[4]	= "04 Touch Too Much.mp3";		
+f[5]	= "05 Beating Around The Bush.mp3";		
+f[6]	= "06 Shot Down In Flames.mp3";		
+f[7]	= "07 Get It Hot.mp3";		
+f[8]	= "08 If You Want Blood (You've Got It).mp3";		
+f[9]	= "09 Love Hungary Man.mp3";		
+f[10]	= "10 Night Prowler.mp3";		
