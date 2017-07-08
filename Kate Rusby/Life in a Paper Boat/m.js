@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Benjamin Bowmaneer.mp3";		
+f[2]	= "02 Hunter Moon.mp3";		
+f[3]	= "03 The Ardent Shepherdess.mp3";		
+f[4]	= "04 Life in a Paper Boat.mp3";		
+f[5]	= "05 Only Desire What You Have.mp3";		
+f[6]	= "06 Hundred Hearts.mp3";		
+f[7]	= "07 The Mermaid.mp3";		
+f[8]	= "08 Pace Egging Song.mp3";		
+f[9]	= "09 The Witch of the Westmorland.mp3";		
+f[10]	= "10 I'll Be Wise.mp3";		
+f[11]	= "11 Night Lament.mp3";		
+f[12]	= "12 Big Brave Bill.mp3";		
